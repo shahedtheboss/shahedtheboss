@@ -2,11 +2,11 @@
 
 **EEE Undergraduate @ CUET | Machine Learning | Robotics & Automation**
 
-I'm an Electrical and Electronic Engineering student at CUET, Bangladesh, interested in applying machine learning and intelligent systems to real-world engineering problems.
+I'm an Electrical and Electronic Engineering student at CUET, Bangladesh, interested in applying machine learning and intelligent systems to real-world engineering problems.Workling with software and hardware development since 2021.
 
 - 🧠 Learning **PyTorch, Machine Learning & Deep Reinforcement Learning**
 - 🤖 Exploring **ROS 2, Robotics & Intelligent Control**
-- ⚙️ Experience with **PLC Programming & Industrial Automation**
+- ⚙️ Experience with **PLC Programming & Industrial Automation || Full-Stack Web Development**
 - 💻 Background in **Python, React.js & Full-Stack Web Development**
 
 ### 🛠️ Tech Stack
