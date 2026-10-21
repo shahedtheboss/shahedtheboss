@@ -3,9 +3,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Md.Shahdath+Hussain&textBg=false&fontSize=70&fontAlign=50&fontAlignY=53&animation=twinkling&rotate=0&strokeWidth=4&desc=EEE%2C+Robotics+and+Reinforcement+Learning&descSize=30&descAlign=50&descAlignY=74" width="100%" alt="Shahed — EEE, Robotics and Reinforcement Learning" />
 
 
-<a href="https://github.com/shahedtheboss"><img src="https://img.shields.io/badge/GitHub-shahedtheboss-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.cuet.ac.bd/"><img src="https://img.shields.io/badge/EEE-CUET-174a7e?style=for-the-badge" alt="EEE at CUET"/></a>
-<a href="https://www.ros.org/"><img src="https://img.shields.io/badge/Focus-Robotics%20%26%20RL-0e9aa7?style=for-the-badge" alt="Robotics and RL"/></a>
+<a href="https://github.com/shahedtheboss">
+  <img src="https://img.shields.io/badge/GitHub-shahedtheboss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/shahadat-hussain-shahed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+<a href="mailto:shahedshahadat0123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahed"/>
+</a>
+<a href="https://shahdath-hussain.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"/>
+</a>
+
+
+
+
+<a href="https://www.cuet.ac.bd/">
+  <img src="https://img.shields.io/badge/EEE%20Undergraduate-Chittagong%20University%20of%20Engineering%20%26%20Technology%2C%20Bangladesh-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="EEE undergraduate at Chittagong University of Engineering and Technology, Bangladesh"/>
+</a>
+
 </div>
 
 whoami
@@ -19,26 +36,65 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 ⚒️ Tech Arsenal
 <div align="center">
 
-AI · Deep Learning · Reinforcement Learning
+💻 Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge" alt="Embedded C"/>
+
+🌐 Web Development
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+🧠 Machine Learning & Robotics
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-
-
-Robotics · Systems
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-6A1B9A?style=for-the-badge" alt="Reinforcement Learning"/>
+<img src="https://img.shields.io/badge/Q--learning-5E35B1?style=for-the-badge" alt="Q-learning"/>
+<img src="https://img.shields.io/badge/DQN-4527A0?style=for-the-badge" alt="DQN"/>
+<img src="https://img.shields.io/badge/PPO-3949AB?style=for-the-badge" alt="PPO"/>
+<img src="https://img.shields.io/badge/CNNs-00838F?style=for-the-badge" alt="CNNs"/>
+<img src="https://img.shields.io/badge/Multimodal%20Classification-00695C?style=for-the-badge" alt="Multimodal classification"/>
+<br/>
+<img src="https://img.shields.io/badge/ROS%202%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Humble"/>
 <img src="https://img.shields.io/badge/Gazebo-8A4182?style=for-the-badge" alt="Gazebo"/>
+<img src="https://img.shields.io/badge/TurtleBot3-00796B?style=for-the-badge" alt="TurtleBot3"/>
+<img src="https://img.shields.io/badge/LiDAR%20Navigation-1565C0?style=for-the-badge" alt="LiDAR-based navigation"/>
+
+🔌 Embedded Systems & Automation
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/RFID-455A64?style=for-the-badge" alt="RFID"/>
+<img src="https://img.shields.io/badge/OLED%20Displays-37474F?style=for-the-badge" alt="OLED displays"/>
+<img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-546E7A?style=for-the-badge" alt="Sensors and actuators"/>
+<br/>
+<img src="https://img.shields.io/badge/UART-00897B?style=for-the-badge" alt="UART"/>
+<img src="https://img.shields.io/badge/I2C-00897B?style=for-the-badge" alt="I2C"/>
+<img src="https://img.shields.io/badge/SPI-00897B?style=for-the-badge" alt="SPI"/>
+<img src="https://img.shields.io/badge/Wi--Fi-0288D1?style=for-the-badge&logo=wifi&logoColor=white" alt="Wi-Fi"/>
+<img src="https://img.shields.io/badge/HTTP%20%2F%20REST-455A64?style=for-the-badge" alt="HTTP REST"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<br/>
+<img src="https://img.shields.io/badge/Siemens%20S7--300-009999?style=for-the-badge" alt="Siemens S7-300 PLC"/>
+<img src="https://img.shields.io/badge/TIA%20Portal-007A7A?style=for-the-badge" alt="TIA Portal"/>
+<img src="https://img.shields.io/badge/FluidSIM-546E7A?style=for-the-badge" alt="FluidSIM"/>
+<img src="https://img.shields.io/badge/HMI-455A64?style=for-the-badge" alt="HMI"/>
+
+🧰 Tools & Platforms
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
+<img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" alt="Proteus"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
-
-Electronics · Automation
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge" alt="ESP32"/>
-<img src="https://img.shields.io/badge/PLC%20Automation-555555?style=for-the-badge" alt="PLC Automation"/>
-<img src="https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge" alt="TIA Portal"/>
-
+</div>
 </div>
 
 📊 GitHub Stats
