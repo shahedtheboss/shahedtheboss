@@ -51,32 +51,19 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 
 🧠 Machine Learning & Robotics
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7B2CBF?style=for-the-badge" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-6A1B9A?style=for-the-badge" alt="Reinforcement Learning"/>
 <img src="https://img.shields.io/badge/Q--learning-5E35B1?style=for-the-badge" alt="Q-learning"/>
 <img src="https://img.shields.io/badge/DQN-4527A0?style=for-the-badge" alt="DQN"/>
 <img src="https://img.shields.io/badge/PPO-3949AB?style=for-the-badge" alt="PPO"/>
-<img src="https://img.shields.io/badge/CNNs-00838F?style=for-the-badge" alt="CNNs"/>
-<img src="https://img.shields.io/badge/Multimodal%20Classification-00695C?style=for-the-badge" alt="Multimodal classification"/>
 <br/>
 <img src="https://img.shields.io/badge/ROS%202%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Humble"/>
 <img src="https://img.shields.io/badge/Gazebo-8A4182?style=for-the-badge" alt="Gazebo"/>
 <img src="https://img.shields.io/badge/TurtleBot3-00796B?style=for-the-badge" alt="TurtleBot3"/>
-<img src="https://img.shields.io/badge/LiDAR%20Navigation-1565C0?style=for-the-badge" alt="LiDAR-based navigation"/>
 
 🔌 Embedded Systems & Automation
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/RFID-455A64?style=for-the-badge" alt="RFID"/>
-<img src="https://img.shields.io/badge/OLED%20Displays-37474F?style=for-the-badge" alt="OLED displays"/>
-<img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-546E7A?style=for-the-badge" alt="Sensors and actuators"/>
 <br/>
-<img src="https://img.shields.io/badge/UART-00897B?style=for-the-badge" alt="UART"/>
-<img src="https://img.shields.io/badge/I2C-00897B?style=for-the-badge" alt="I2C"/>
-<img src="https://img.shields.io/badge/SPI-00897B?style=for-the-badge" alt="SPI"/>
-<img src="https://img.shields.io/badge/Wi--Fi-0288D1?style=for-the-badge&logo=wifi&logoColor=white" alt="Wi-Fi"/>
-<img src="https://img.shields.io/badge/HTTP%20%2F%20REST-455A64?style=for-the-badge" alt="HTTP REST"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <br/>
 <img src="https://img.shields.io/badge/Siemens%20S7--300-009999?style=for-the-badge" alt="Siemens S7-300 PLC"/>
