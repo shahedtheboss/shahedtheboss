@@ -62,7 +62,6 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-
 <img src="https://img.shields.io/badge/Siemens%20S7--300-009999?style=for-the-badge" alt="Siemens S7-300 PLC"/>
 <img src="https://img.shields.io/badge/TIA%20Portal-007A7A?style=for-the-badge" alt="TIA Portal"/>
 <img src="https://img.shields.io/badge/FluidSIM-546E7A?style=for-the-badge" alt="FluidSIM"/>
@@ -77,7 +76,6 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
 <img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" alt="Proteus"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 
 
