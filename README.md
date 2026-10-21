@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Md.Shahdath+Hussain&textBg=false&fontSize=70&fontAlign=50&fontAlignY=53&animation=twinkling&rotate=0&strokeWidth=4&desc=EEE%2C+Robotics+and+Reinforcement+Learning&descSize=30&descAlign=50&descAlignY=74" width="100%" alt="Shahed — EEE, Robotics and Reinforcement Learning" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Md.Shahdath+Hussain&textBg=false&fontSize=70&fontAlign=50&fontAlignY=53&anim[%5B%22blinking%22,%22wave%22,%5D]" alt="Header banner"/>
 
 
 <a href="https://github.com/shahedtheboss">
@@ -17,11 +17,11 @@
 </a>
 
 
-
-
+<div style="margin-top: 14px; margin-bottom: 6px;">
 <a href="https://www.cuet.ac.bd/">
-  <img src="https://img.shields.io/badge/EEE%20Undergraduate-Chittagong%20University%20of%20Engineering%20%26%20Technology%2C%20Bangladesh-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="EEE undergraduate at Chittagong University of Engineering and Technology, Bangladesh"/>
+  <img src="https://img.shields.io/badge/EEE%20Undergraduate-Chittagong%20University%20of%20Engineering%20%26%20Technology%2C%20Bangladesh-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="EEE Undergraduate at CUET"/>
 </a>
+</div>
 
 </div>
 
@@ -87,7 +87,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 📊 GitHub Stats
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahedtheboss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub stats for shahedtheboss"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahedtheboss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedtheboss&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages"/>
 
