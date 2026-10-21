@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:101820,50:173b4d,100:4b9da9&text=Shahed&fontColor=ffffff&fontSize=48&fontAlignY=43&desc=EEE%20Undergraduate%20%7C%20Robotics%20%7C%20Reinforcement%20Learning&descAlignY=70&descSize=14" width="100%" alt="Shahed — EEE, Robotics and Reinforcement Learning" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:101820,50:173b4d,100:4b9da9&text=Md.Shahdath Hussain&fontColor=ffffff&fontSize=48&fontAlignY=43&desc=EEE%20Undergraduate%20%7C%20Robotics%20%7C%20Reinforcement%20Learning&descAlignY=70&descSize=14" width="100%" alt="Shahed — EEE, Robotics and Reinforcement Learning" />
 
 
 <a href="https://github.com/shahedtheboss"><img src="https://img.shields.io/badge/GitHub-shahedtheboss-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
