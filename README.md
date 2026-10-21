@@ -17,7 +17,7 @@
 </a>
 
 
-<div style="margin-top: 14px; margin-bottom: 6px;">
+<div style="margin-top: 15px; margin-bottom: 6px;">
 <a href="https://www.cuet.ac.bd/">
   <img src="https://img.shields.io/badge/EEE%20Undergraduate-Chittagong%20University%20of%20Engineering%20%26%20Technology%2C%20Bangladesh-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="EEE Undergraduate at CUET"/>
 </a>
@@ -54,7 +54,6 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/Q--learning-5E35B1?style=for-the-badge" alt="Q-learning"/>
 <img src="https://img.shields.io/badge/DQN-4527A0?style=for-the-badge" alt="DQN"/>
 <img src="https://img.shields.io/badge/PPO-3949AB?style=for-the-badge" alt="PPO"/>
-<br/>
 <img src="https://img.shields.io/badge/ROS%202%20Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Humble"/>
 <img src="https://img.shields.io/badge/Gazebo-8A4182?style=for-the-badge" alt="Gazebo"/>
 <img src="https://img.shields.io/badge/TurtleBot3-00796B?style=for-the-badge" alt="TurtleBot3"/>
@@ -63,9 +62,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-<br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<br/>
+
 <img src="https://img.shields.io/badge/Siemens%20S7--300-009999?style=for-the-badge" alt="Siemens S7-300 PLC"/>
 <img src="https://img.shields.io/badge/TIA%20Portal-007A7A?style=for-the-badge" alt="TIA Portal"/>
 <img src="https://img.shields.io/badge/FluidSIM-546E7A?style=for-the-badge" alt="FluidSIM"/>
@@ -80,6 +77,9 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
 <img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" alt="Proteus"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+
 
 </div>
 </div>
