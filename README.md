@@ -100,24 +100,25 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/shahedtheboss/turtle-bot-research">🤖 TurtleBot3 DQN Navigation</a></h3>
+      <p>Ongoing learning and development project exploring DQN-based mobile robot navigation with ROS 2 and Gazebo.</p>
+      <img src="https://img.shields.io/badge/ROS%202-Robotics-22314E?style=flat-square" alt="ROS 2"/>
+      <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square" alt="Ongoing"/>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/shahedtheboss/frozenlake-dqn">🧊 DQN on FrozenLake</a></h3>
       <p>Learning Deep Q-Networks with PyTorch, experience replay, target networks, and epsilon-greedy exploration in Gymnasium.</p>
       <img src="https://img.shields.io/badge/PyTorch-DQN-EE4C2C?style=flat-square" alt="PyTorch DQN"/>
       <img src="https://img.shields.io/badge/Gymnasium-RL-6c5ce7?style=flat-square" alt="Gymnasium"/>
     </td>
+    
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/shahedtheboss/distance-detector-without-microcontroller">📡 Microcontroller-Free Distance Detector</a></h3>
       <p>Ultrasonic proximity detector using a 555 timer IC, LED, buzzer, resistors, capacitors, and a battery—without a programmable microcontroller.</p>
       <img src="https://img.shields.io/badge/Electronics-Analog%20Circuit-00979D?style=flat-square" alt="Electronics"/>
       <img src="https://img.shields.io/badge/555-Timer%20IC-555555?style=flat-square" alt="555 timer"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 TurtleBot3 DQN Navigation</h3>
-      <p>Ongoing learning and development project exploring DQN-based mobile robot navigation with ROS 2 and Gazebo.</p>
-      <img src="https://img.shields.io/badge/ROS%202-Robotics-22314E?style=flat-square" alt="ROS 2"/>
-      <img src="https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square" alt="Ongoing"/>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ PLC & Industrial Automation</h3>
