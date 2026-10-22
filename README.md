@@ -25,7 +25,7 @@
 
 </div>
 
-whoami
+<b>whoami</b>
 I'm an Electrical and Electronic Engineering undergraduate at CUET, Bangladesh, interested in building intelligent systems that connect electronics, machine learning, and robotics.
 
 Currently strengthening my foundations in PyTorch and Deep Reinforcement Learning, while exploring autonomous navigation, ROS 2, and simulation-based robotics.
@@ -33,7 +33,8 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 - 🤖 Exploring: DQN, TurtleBot3, ROS 2, and Gazebo
 - ⚡ Background: EEE, electronics, PLC automation, and embedded systems
 - 🌱 Current goal: turn working implementations into well-tested, reproducible projects
-⚒️ Tech Arsenal
+  
+⚒️ <b>Tech Arsenal</b>
 <div align="center">
 
 💻 Programming Languages
