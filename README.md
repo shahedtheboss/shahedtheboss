@@ -25,7 +25,7 @@
 
 </div>
 
-<b>whoami</b>
+<h2>whoami</h2>
 I'm an Electrical and Electronic Engineering undergraduate at CUET, Bangladesh, interested in building intelligent systems that connect electronics, machine learning, and robotics.
 
 Currently strengthening my foundations in PyTorch and Deep Reinforcement Learning, while exploring autonomous navigation, ROS 2, and simulation-based robotics.
@@ -34,7 +34,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 - ⚡ Background: EEE, electronics, PLC automation, and embedded systems
 - 🌱 Current goal: turn working implementations into well-tested, reproducible projects
   
-⚒️ <b>Tech Arsenal</b>
+⚒️ <h2>Tech Arsenal</h2>
 <div align="center">
 
 💻 Programming Languages
@@ -50,8 +50,14 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-🧠 Machine Learning & Robotics
+🧠 Machine Learning, Reinforcement Learning & Robotics
+<br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 <img src="https://img.shields.io/badge/Q--learning-5E35B1?style=for-the-badge" alt="Q-learning"/>
 <img src="https://img.shields.io/badge/DQN-4527A0?style=for-the-badge" alt="DQN"/>
 <img src="https://img.shields.io/badge/PPO-3949AB?style=for-the-badge" alt="PPO"/>
