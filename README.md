@@ -89,10 +89,10 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 </div>
 </div>
 
-📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahedtheboss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahedtheboss&theme=github_dark" alt="GitHub stats"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahedtheboss&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages"/>
 
@@ -101,7 +101,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 
 </div>
 
-🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
