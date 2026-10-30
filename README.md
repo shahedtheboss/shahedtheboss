@@ -25,7 +25,7 @@
 
 </div>
 
-<h2>whoami</h2>
+<h2>who am i</h2>
 I'm an Electrical and Electronic Engineering undergraduate at CUET, Bangladesh, interested in building intelligent systems that connect electronics, machine learning, and robotics.
 
 Currently strengthening my foundations in PyTorch and Deep Reinforcement Learning, while exploring autonomous navigation, ROS 2, and simulation-based robotics.
@@ -34,7 +34,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 - ⚡ Background: EEE, electronics, PLC automation, and embedded systems
 - 🌱 Current goal: turn working implementations into well-tested, reproducible projects
   
-⚒️ <h2>Tech Arsenal</h2>
+ <h2>Tech Arsenal</h2>
 <div align="center">
 
 💻 Programming Languages
@@ -89,8 +89,8 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 </div>
 </div>
 
-<h2>📊 GitHub Stats</h2>
 <div align="center">
+<h2>📊 GitHub Stats</h2>
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahedtheboss&theme=github_dark" alt="GitHub stats"/>
 
