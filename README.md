@@ -37,20 +37,20 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
  <h2>Tech Arsenal</h2>
 <div align="center">
 
-💻 Programming Languages
+<div align="center"><h4>💻 Programming Languages</h4></div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge" alt="Embedded C"/>
 
-🌐 Web Development
+<div align="center"><h4>🌐 Web Development</h4></div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-🧠 Machine Learning, Reinforcement Learning & Robotics
+<div align="center"><h4>🧠 Machine Learning, Reinforcement Learning & Robotics</h4></div>
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -65,7 +65,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/Gazebo-8A4182?style=for-the-badge" alt="Gazebo"/>
 <img src="https://img.shields.io/badge/TurtleBot3-00796B?style=for-the-badge" alt="TurtleBot3"/>
 
-🔌 Embedded Systems & Automation
+<div align="center"><h4>🔌 Embedded Systems & Automation</h4></div>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
@@ -74,7 +74,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/FluidSIM-546E7A?style=for-the-badge" alt="FluidSIM"/>
 <img src="https://img.shields.io/badge/HMI-455A64?style=for-the-badge" alt="HMI"/>
 
-🧰 Tools & Platforms
+<div align="center"><h4>🧰 Tools & Platforms</h4></div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
