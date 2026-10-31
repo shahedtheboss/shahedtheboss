@@ -29,9 +29,9 @@
 I'm an Electrical and Electronic Engineering undergraduate at CUET, Bangladesh, interested in building intelligent systems that connect electronics, machine learning, and robotics.
 
 Currently strengthening my foundations in PyTorch and Deep Reinforcement Learning, while exploring autonomous navigation, ROS 2, and simulation-based robotics.
-- 🧠 Interested in: Deep Reinforcement Learning, autonomous robotics, and intelligent control
-- 🤖 Exploring: DQN, TurtleBot3, ROS 2, and Gazebo
-- ⚡ Background: EEE, electronics, PLC automation, and embedded systems
+- 🧠 Interested in: Deep Reinforcement Learning, autonomous robotics and intelligent control
+- 🤖 Exploring: DQN, TurtleBot3, ROS 2, Gazebo, GenAI, MLops, NLP
+- ⚡ Background: EEE, electronics,Machine Learning, PLC automation, and embedded systems
 - 🌱 Current goal: turn working implementations into well-tested, reproducible projects
   
  <h2>Tech Arsenal</h2>
