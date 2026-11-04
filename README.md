@@ -45,10 +45,12 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge" alt="Embedded C"/>
 
 <div align="center"><h4>🌐 Web Development</h4></div>
+HTML CSS
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+JWT Redux 
 
 <div align="center"><h4>🧠 Machine Learning, Reinforcement Learning & Robotics</h4></div>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
