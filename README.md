@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Md.Shahdath+Hussain&textBg=false&fontSize=70&fontAlign=50&fontAlignY=53&anim[%5B%22blinking%22,%22wave%22,%5D]" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Md.Shahdath+Hussain&textBg=false&fontSize=70&fontAlign=50&fontAlignY=53&anim=false&title=shahedtheboss" alt="Banner"/>
 
 
 <a href="https://github.com/shahedtheboss">
@@ -19,7 +19,7 @@
 
 <div style="margin-top: 15px; margin-bottom: 6px;">
 <a href="https://www.cuet.ac.bd/">
-  <img src="https://img.shields.io/badge/EEE%20Undergraduate-Chittagong%20University%20of%20Engineering%20%26%20Technology%2C%20Bangladesh-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="EEE Undergraduate at CUET"/>
+  <img src="https://img.shields.io/badge/EEE%20Undergraduate-Chittagong%20University%20of%20Engineering%20%26%20Technology%2C%20Bangladesh-8A2BE2?style=for-the-badge&logo=academia&logoColor=white" alt="CUET undergraduate"/>
 </a>
 </div>
 
@@ -45,19 +45,21 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 <img src="https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge" alt="Embedded C"/>
 
 <div align="center"><h4>🌐 Web Development</h4></div>
-HTML CSS
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-JWT Redux 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 
 <div align="center"><h4>🧠 Machine Learning, Reinforcement Learning & Robotics</h4></div>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-ElasticNet
-Optuna
+<img src="https://img.shields.io/badge/ElasticNet-673AB7?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ElasticNet"/>
+<img src="https://img.shields.io/badge/Optuna-5E6AD2?style=for-the-badge&logo=python&logoColor=white" alt="Optuna"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
@@ -87,7 +89,7 @@ Optuna
 <img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" alt="Proteus"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-MLflow
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
 
 
 </div>
@@ -98,7 +100,7 @@ MLflow
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahedtheboss&theme=github_dark" alt="GitHub stats"/>
 
-[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shahedtheboss&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages&bg_color=000000)](https://github.com/stats-organization/github-stats-extended)
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shahedtheboss&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages)](https://github.com/shahedtheboss)
 
 
 <img src="https://streak-stats.demolab.com?user=shahedtheboss&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
