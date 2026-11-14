@@ -107,7 +107,7 @@ Currently strengthening my foundations in PyTorch and Deep Reinforcement Learnin
 [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=shahedtheboss&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages)](https://github.com/shahedtheboss)
 
 
-<img src="https://streak-stats.demolab.com?user=shahedtheboss&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=shahedtheboss&hide_border=true&background=transparent&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
